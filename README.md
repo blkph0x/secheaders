@@ -44,5 +44,8 @@ A Python tool to validate HTTP response headers based on OWASP's recommendations
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/owasp-security-header-checker.git
-   cd owasp-security-header-checker
+   git clone https://github.com/blkph0x/secheaders.git
+   cd secheaders
+   Run with: python secheaders.py
+
+  
