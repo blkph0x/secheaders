@@ -46,6 +46,6 @@ A Python tool to validate HTTP response headers based on OWASP's recommendations
    ```bash
    git clone https://github.com/blkph0x/secheaders.git
    cd secheaders
-   Run with: python secheaders.py
+   Run with: python secheader.py
 
   
